@@ -1,0 +1,6 @@
+{
+  "name": "Grade 11 CS Academic Diagnostic Ledger",
+  "description": "Production-grade Academic Diagnostic app for Grade 11 Computer Science First Terminal Examination with GPA trajectory variance, subject mark distribution, NG intervention profiles, and automated remediation plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
